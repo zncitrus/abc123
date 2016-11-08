@@ -1,0 +1,16 @@
+header,#main,.zn,.wjh1,.wjh2,.xxk1,.xxk2,.llh,.wll1,.wll2,footer{width: 100%;}
+
+header{ height: 136px;}
+
+#main{height:5852px;}
+.zn{height:650px; background: #000000;}
+.wjh1{height:809px}
+.wjh2{height:590px; background: #000000;}
+.xxk1{height:784px}
+.xxk2{height:545px; background: #000000;}
+.llh1{height:824px}
+.llh2{height:664px; background: #000000;}
+.wll1{height:450px;}
+.wll2{height:536px; background: #000000;}
+
+footer{height: 470px;}
